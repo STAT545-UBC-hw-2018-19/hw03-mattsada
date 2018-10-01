@@ -4,8 +4,8 @@ Welcome, this is my personal repository for the third assignment in **STAT545**.
 | **Assignment** | **Due date** | **Peer Review Due Date** | **Peer Review Link** |
 | -------------- |--------------|--------------------------|----------------------|
 |[Homework 1](https://github.com/STAT545-UBC-students/hw01-mattsada/blob/master/hw01_gapminder.md)|September 18, 2018|September 24, 2018| [Review 1](https://github.com/STAT545-UBC-students/hw01-seraphinearnold/issues/2), [Review 2](https://github.com/STAT545-UBC-students/hw01-alorentzian/issues/1)|
-|[Homework 2]()|September 25, 2018|October 01, 2018  | [Review 1](), [Review 2]()|
-|[Homework 3]()|October 2, 2018|October 08, 2018  | [Review 1](), [Review 2]()|
+|[Homework 2](https://github.com/STAT545-UBC-students/hw02-mattsada)|September 25, 2018|October 01, 2018  | [Review 1](https://github.com/STAT545-UBC-students/hw02-CeciliaLe07), [Review 2](https://github.com/STAT545-UBC-students/hw02-RyanGao67)|
+|[Homework 3](https://github.com/STAT545-UBC-students/hw03-mattsada)|October 2, 2018|October 08, 2018  | [Review 1](), [Review 2]()|
 
 ## Useful resources
 
